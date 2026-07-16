@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR1a0017_000.yaml, hash: 'sha256:8b45c60acc3351cfe2e36697da12a3e2cfb6566784f6094b288fdb06107048d4'}
   - {seq: 1, filename: KR1a0017_001.yaml, hash: 'sha256:839e0819827f13334e7d0c5710cb2bd20ad5f516e1253288b1dcfa24bfda1718'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR1a0017_000.markers.yaml, hash: 'sha256:fe1c4db1877124e2565b04b163bcef8f10a2ac22027af7eb4c94ac69b428edae'}
-  - {seq: 1, role: markers, filename: assets/KR1a0017_001.markers.yaml, hash: 'sha256:89b4bf0f44ac089ef86cb065dae6b825678231e724e28eeaa4e297e9e3aa818c'}
+  - {seq: 0, role: markers, filename: assets/KR1a0017_000.markers.yaml, hash: 'sha256:5e0dabd99b7788d35c2f0931241f7746498c84e09e0c9b611ce233f8d37ec41f'}
+  - {seq: 1, role: markers, filename: assets/KR1a0017_001.markers.yaml, hash: 'sha256:f95261c54ad38147b1d4c4a69f5bdcf7847dff8a5fc1ebfd34c7c35df7c45a32'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,7 @@ table_of_contents:
   label: 易學辨惑
   type: section
   level: 1
-hash: sha256:4928b9e5f1a42c0a9f5576bada8346e930bbf3dc01186c91a8d21fd95c0b91fa
+hash: sha256:c1f6dc0d82c36d5572d5195b455106cda770860ea9bef51105a0f2f30786d038
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
